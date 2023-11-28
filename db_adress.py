@@ -1,0 +1,1 @@
+URL = "postgresql://AntonCkya:6ydwzT3tsjmg@ep-shy-bird-09094098.eu-central-1.aws.neon.tech/melomanica_prod?sslmode=require"
